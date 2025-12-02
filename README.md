@@ -1,2 +1,2 @@
 # Demo
-This is for study purpose only
+This is for study purpose only.
